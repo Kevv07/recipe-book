@@ -1,0 +1,23 @@
+
+.navbar-default{
+    background-color: #e8d269;
+    border: solid 0px;
+    border-radius: 0%; 
+    margin:0px; 
+    border-bottom: solid 4px rgb(151, 151, 151);
+}
+
+.li:not(.exclude){
+    background-color: #e8d269;
+    transition: background-color 0.5s ease;
+}
+li:hover{
+    background-color: #e1be3e;
+}
+
+.activeL {
+    background-color: #efe398;
+}
+.dropdown-menu{
+    background-color: #efe398;
+}

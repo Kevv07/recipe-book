@@ -1,0 +1,30 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+    border: 1px outset red;
+}
+
+form{
+    background-color: #f3eece;
+    color:#845924;
+    border: solid 1px #845c24;
+    padding:10px;
+}
+
+hr{
+    height: 1px;
+    background-color: #845c2448;
+    border: none;
+}
+/* when the img preview loads applies border */
+img[src*="https"]{
+    border: 1px solid #845c24;
+    border-radius: 2px
+}
+
+.pull-right{
+    margin-top: 10px;
+}
+
+.btn-danger{
+    margin-left:5px;
+}

@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+html{
+    background: rgb(105,96,87);
+    background: linear-gradient(180deg, rgba(105,96,87,1) 0%, rgba(37,35,31,1) 100%);
+}
+
+*{
+    font-family: 'Lucida Sans', Arial, sans-serif
+}
